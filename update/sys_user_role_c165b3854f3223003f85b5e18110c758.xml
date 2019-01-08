@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_304341_trial1.firsttable_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>firsttable_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-03 07:54:53</sys_created_on>
+        <sys_id>c165b3854f3223003f85b5e18110c758</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_304341_trial1.firsttable_user</sys_name>
+        <sys_package display_value="Trial1" source="x_304341_trial1">81b12bb84fb223003f85b5e18110c70e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trial1">81b12bb84fb223003f85b5e18110c70e</sys_scope>
+        <sys_update_name>sys_user_role_c165b3854f3223003f85b5e18110c758</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-03 07:54:53</sys_updated_on>
+    </sys_user_role>
+</record_update>
